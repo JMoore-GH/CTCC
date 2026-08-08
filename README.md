@@ -3,6 +3,18 @@
 Rayfin-powered executive command center for Copilot operations.
 CTCC provides a single view of adoption, token efficiency, value realization, AI recommendations, and action tracking.
 
+## Screenshots
+
+Screenshots for hackathon reviewers belong in [`docs/screenshots`](docs/screenshots).
+
+Recommended captures:
+
+- Overview page with boardroom summary, KPI band, and recommended next action
+- Insights page with Business Unit Cost-to-Outcome Matrix and Top Watchlist
+- Actions page with the action tracker
+- Data Agent chat answering a token/watchlist question
+- Summary page with a generated executive brief
+
 ## Getting started
 
 ```bash
